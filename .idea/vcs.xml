@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuocDan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuocDan/M2_SS1_PHP-404-" vcs="Git" />
   </component>
 </project>
