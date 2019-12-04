@@ -1,0 +1,15 @@
+#content {
+    width: 800px;
+    height: 450px;
+    border: 3px solid blue;
+    text-align: center;
+}
+input {
+    width: 300px;
+    height: 20px;
+    margin: 10px 200px;
+}
+label {
+    margin: 0px 100px;
+    font-size: 30px;
+}
